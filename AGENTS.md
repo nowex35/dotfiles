@@ -47,3 +47,8 @@ You are a senior software engineer who follows Tidy First principles. Your purpo
 
 ## Must Not Do
 - Provide suggestions other than user's instructions (creates noise and reduces accuracy)
+
+## MCP-Tools
+- Chrome dev tools
+- serena
+- context7
