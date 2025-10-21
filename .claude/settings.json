@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run test:*)",
+      "Bash(npm run lint:*)",
+      "mcp__serena",
+      "mcp__chrome-devtools"
+    ],
+    "deny": [
+      "Read(.env)",
+      "Read(.env.*)"
+    ],
+    "ask": []
+  }
+}
